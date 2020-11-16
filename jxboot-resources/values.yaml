@@ -44,7 +44,7 @@ gitops:
     scheduler: env-scheduler
     buildPackName: kubernetes-workloads
     buildPackRef: master
-    buildPackUrl: https://github.com/jenkins-x-buildpacks/jenkins-x-kubernetes.git
+    buildPackUrl: https://github.com/chew-org/jenkins-x-kubernetes.git
     quickstartLocations:
     - excludes:
       - WIP-*
